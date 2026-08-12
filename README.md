@@ -191,7 +191,7 @@ Or simply browse the folders above and click **Open** next to any file to view i
 - [x] Excel class files linked
 - [x] Power BI class files linked
 - [x] SQL class files linked
-- [ ] Class recordings linked
+- [x] Class recordings Access for registered students
 - [ ] Final project showcase added
 
 > This README is actively maintained and will be updated as the cohort progresses. Check back regularly for new content.
