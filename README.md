@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2323E8&center=true&vCenter=true&width=700&lines=DigiTech+Academy;Data+Analytics+Bootcamp;Cohort+1.0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2323E8&center=true&vCenter=true&width=700&lines=DigiTech+Academy;Data+Analytics+Course;Cohort+1.0" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/profile%20visits-4%2C745-2323E8?style=for-the-badge&labelColor=1a1a1a" alt="visits" />
+<img src="https://img.shields.io/badge/profile%20visits-1%0C0-2323E8?style=for-the-badge&labelColor=1a1a1a" alt="visits" />
 <img src="https://img.shields.io/badge/Cohort-1.0-F4A66E?style=for-the-badge&labelColor=1a1a1a" alt="cohort" />
 
 </div>
