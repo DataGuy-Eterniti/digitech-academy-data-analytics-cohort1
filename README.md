@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/profile%20visits-1%00-2323E8?style=for-the-badge&labelColor=1a1a1a" alt="visits" />
+<img src="https://img.shields.io/badge/profile%20visits-100-2323E8?style=for-the-badge&labelColor=1a1a1a" alt="visits" />
 <img src="https://img.shields.io/badge/Cohort-1.0-F4A66E?style=for-the-badge&labelColor=1a1a1a" alt="cohort" />
 
 </div>
