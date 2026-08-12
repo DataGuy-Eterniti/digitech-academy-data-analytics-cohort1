@@ -97,11 +97,7 @@ DigiTech-Academy-Data-Analytics-Cohort1/
 
 | # | Video | Duration | Link |
 |:-:|:---|:---:|:---:|
-| 1 | *coming soon* | — | — |
-| 2 | *coming soon* | — | — |
-| 3 | *coming soon* | — | — |
-| 4 | *coming soon* | — | — |
-| 5 | *coming soon* | — | — |
+| 1 | *Registered Students Only* | — | — |
 
 </details>
 
@@ -132,11 +128,8 @@ DigiTech-Academy-Data-Analytics-Cohort1/
 
 | # | Video | Duration | Link |
 |:-:|:---|:---:|:---:|
-| 1 | *coming soon* | — | — |
-| 2 | *coming soon* | — | — |
-| 3 | *coming soon* | — | — |
-| 4 | *coming soon* | — | — |
-| 5 | *coming soon* | — | — |
+| 1-20 | *Registered Students Only* | — | — |
+
 
 </details>
 
@@ -163,11 +156,8 @@ DigiTech-Academy-Data-Analytics-Cohort1/
 
 | # | Video | Duration | Link |
 |:-:|:---|:---:|:---:|
-| 1 | *coming soon* | — | — |
-| 2 | *coming soon* | — | — |
-| 3 | *coming soon* | — | — |
-| 4 | *coming soon* | — | — |
-| 5 | *coming soon* | — | — |
+| 1-10 | *Registered Students Only* | — | — |
+
 
 </details>
 
