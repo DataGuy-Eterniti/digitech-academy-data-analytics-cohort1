@@ -166,7 +166,7 @@ DigiTech-Academy-Data-Analytics-Cohort1/
 ## 👥 Cohort Info
 
 <p align="left">
-<img src="https://img.shields.io/badge/Program-Data%20Analytics%20Bootcamp-2323E8?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Program-Data%20Analytics%20Course-2323E8?style=for-the-badge&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/Cohort-1.0-F4A66E?style=for-the-badge&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/Format-Instructor--Led-2323E8?style=for-the-badge&labelColor=1a1a1a" />
 </p>
