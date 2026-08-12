@@ -1,0 +1,11 @@
+BMI CALCULATION
+
+
+IMPERIAL
+
+  BMI = (Weight in Pounds / (Height in inches x Height in inches)) x 703
+
+
+METRIC
+
+  BMI = (Weight in Kilograms / (Height in Meters x Height in Meters))
